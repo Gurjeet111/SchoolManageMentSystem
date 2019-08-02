@@ -1,20 +1,20 @@
 {
-    "logs": [
+  "logs": [
+    {
+      "outputFile": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+      "map": [
         {
-            "outputFile": "/Users/gurjeet.singh/Documents/SCHOOLINGAPP/Source Code/SchoolApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
-            "map": [
-                {
-                    "source": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0e5b3fc65b9a1b9157cc99abdb4bdac4/res/values-watch-v20/values-watch-v20.xml",
-                    "from": {
-                        "startLines": "2,5,8",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,214,385",
-                        "endLines": "4,7,10",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "209,380,553"
-                    }
-                }
-            ]
+          "source": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0e5b3fc65b9a1b9157cc99abdb4bdac4/res/values-watch-v20/values-watch-v20.xml",
+          "from": {
+            "startLines": "2,5,8",
+            "startColumns": "4,4,4",
+            "startOffsets": "55,214,385",
+            "endLines": "4,7,10",
+            "endColumns": "12,12,12",
+            "endOffsets": "209,380,553"
+          }
         }
-    ]
+      ]
+    }
+  ]
 }

@@ -1,19 +1,19 @@
 {
-    "logs": [
+  "logs": [
+    {
+      "outputFile": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+      "map": [
         {
-            "outputFile": "/Users/gurjeet.singh/Documents/SCHOOLINGAPP/Source Code/SchoolApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
-            "map": [
-                {
-                    "source": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0e5b3fc65b9a1b9157cc99abdb4bdac4/res/values-port/values-port.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "55",
-                        "endOffsets": "106"
-                    }
-                }
-            ]
+          "source": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0e5b3fc65b9a1b9157cc99abdb4bdac4/res/values-port/values-port.xml",
+          "from": {
+            "startLines": "2",
+            "startColumns": "4",
+            "startOffsets": "55",
+            "endColumns": "55",
+            "endOffsets": "106"
+          }
         }
-    ]
+      ]
+    }
+  ]
 }
