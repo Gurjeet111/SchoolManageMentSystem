@@ -18,6 +18,7 @@ import java.util.List;
 import com.reactnativenavigation.NavigationApplication;
 import com.reactnativenavigation.react.NavigationReactNativeHost;
 import com.reactnativenavigation.react.ReactGateway;
+import com.reactnative.ivpusic.imagepicker.PickerPackage;
 
 public class MainApplication extends NavigationApplication {
     
@@ -43,7 +44,12 @@ public class MainApplication extends NavigationApplication {
         return Arrays.<ReactPackage>asList(
             new VectorIconsPackage(),
             new LinearGradientPackage(),
-            new SplashScreenReactPackage()
+            new SplashScreenReactPackage(),new PickerPackage()
+
+
+
+
+
         );
     }
   

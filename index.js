@@ -8,14 +8,14 @@ import { registerScreens } from "./src/config/routes";
 import { addListeners } from "./src/utilities/listeners";
 import { Provider } from "react-redux";
 import setup from "./src/store/setup";
-import SplashScreen from 'react-native-splash-screen'
+import SplashScreen from "react-native-splash-screen";
 
 Navigation.events().registerAppLaunchedListener(() => {
   SplashScreen.hide();
   const store = setup();
   registerScreens(store, Provider);
   addListeners();
- 
+
   Navigation.setDefaultOptions({
     topBar: {
       visible: false,

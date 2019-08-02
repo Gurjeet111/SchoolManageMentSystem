@@ -1,0 +1,19 @@
+{
+  "logs": [
+    {
+      "outputFile": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+      "map": [
+        {
+          "source": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eab8ecd6f21bd930ff36dd7900378f34/res/values-zh/values-zh.xml",
+          "from": {
+            "startLines": "2,3,4",
+            "startColumns": "4,4,4",
+            "startOffsets": "55,109,163",
+            "endColumns": "53,53,46",
+            "endOffsets": "104,158,205"
+          }
+        }
+      ]
+    }
+  ]
+}

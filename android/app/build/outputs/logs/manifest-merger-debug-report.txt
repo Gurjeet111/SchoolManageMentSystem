@@ -1,57 +1,59 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-25:12
-MERGED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-25:12
+ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-28:12
 MERGED from [:react-native-splash-screen] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
 MERGED from [:react-native-vector-icons] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-linear-gradient] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-navigation] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative57_5Debug/AndroidManifest.xml:2:1-17:12
-MERGED from [com.facebook.react:react-native:0.59.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/6a1613fe77303168daaf7f8ecb3dce4f/AndroidManifest.xml:2:1-13:12
-MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0b951040979f1c40fc35c87ef333ede5/AndroidManifest.xml:2:1-13:12
-MERGED from [com.android.support:design:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9ad7665476acdf3bd0e3748a510d5d22/AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9596967617d5cc2cebb17ae905a3b1c8/AndroidManifest.xml:2:1-12:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0e5b3fc65b9a1b9157cc99abdb4bdac4/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/45f877da286efbdee2a4e67a5a232f8f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/c0cc1e9533a4d1ed83d80edaae83e52b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b0cd0b67a66f4e1b2fbf20e6cda83619/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/efa89e9f60475d27e737b3389aca2906/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b03d989bb945edaacd20e93069db938e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7f88f9ec6fa779bbb77f0e63da681134/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/fd7eb453f23905dd4cbdf927c4ffe4f5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/604bf83c42172ec483079d356270a411/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/123b1bfcb035c50286e997a29065cbfa/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/3c16da561feaf43ac92010f727e92173/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7662102eb1cfeb6f204647ffea0e803d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5c6f9be6cfca0760e2cf65bb700f4450/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/c3795e8afbc23935d40d4d27d0594780/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/26fc718834144694363cd72c46883607/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7e6aadfe7c06abfee4ddb26d1dacf718/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/f3663888e86fe603bc717a049dc09cfa/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7f6d2d1a60f37bfc4689903ad4641962/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9663e88c21784e2d1f79d9d19fa51300/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/d7211e65955755326f3da2d6a035f143/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/2c66eb133a7f61ecb6781a55036d8975/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/aa9295519ffd991a93bc78e00829a500/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/a88e4fe081f4c88ecfb40ed89a8a1c0e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/629eb9d3c5ef547133199946f6ed0c0f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9df1def009547adb4b7c345972722030/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ad750f3d8f50cfb5d0ba8d06684d57f9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/09120d7d175104938925feaea44853b1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ef4e03a7f02f1984ebb66da82fd4ac7d/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eb6a11d23f1f62a6beb1fd99e02a38e9/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5e9f256943bd2c8dcd638c1fc199b38b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/613ee9942d5b71903c27461be99dbc40/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9cba75bfb57f0755dd575b39866d41e1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1180d8bf91bf8fdba8d25c5ea25c338f/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eab8ecd6f21bd930ff36dd7900378f34/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.15] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0075be8a9d8620f6d621a7fabf2d6338/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5b08b29a73ed6523f41984db31ae4e72/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5ec913233e3dca78414ced2f8a21fadd/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/77411815d272888068a90d7dccfb1321/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/3c8f4030d7eca414c27c97e183198cd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9bc9700a859666b62fe66240e3e63532/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/8fe06168dfea1ca628cd628379e26120/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/720948039fc9cba4de97d43417291ae6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1768185dd70c5d8c5b2683c15f7cfd75/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/dee6e8735d2021449a08149482de7ad7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/dc06e3f55c3298639db9701917d1cecd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1bd6827e6ee515e9bac47736926498c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/818bfd686dd1a4351f84ebe9367d9cc7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/25a1d723f30c10c32168a333499a2170/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/a9c370bc3ec746d6f8de0b5939a082a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/31ae2695c48c0138064ebbf3ba4fe8ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/4ea63b96fa8f5ef080b2bb5dc5f808aa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/95dbb9768e4f5dbced022bf765d7302c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/29a97ae0257b3559530c4ddc0f048d9e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ba3855d2b47b21f95e2287d07ad6ae95/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eeabb8a7f4440e193986e04253509fe1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/45d9b1830ebcae9bd7c95b78f2a156bb/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/f42940c1e818a36a8c36ed567b0eed54/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/78593e99764803da7d676d2a95c1963d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0b6b8e3cc4c936c597dc75d673e5ca12/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9d2df8e25117b74b6249bbc93bafd6f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/631478319454ec61053fbfbf88ac9ab9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9cc6136f193d78840de46719b289d2df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/31c830bc8b7bd61d5b5dc8a92c31634f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/303de832b3664c65a8b2ed1ba784809b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eb87d827592568ab6e08fb5ec8154dc9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/892b4e560fee88f86e92482952f63c32/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/746ef3f759dfbebb39daeb200e3d2ec9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9fc25c6d3e16a7e958c21002e9c239f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/25c8c32ab03888f21581c14fcfa02fd2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/43331495b74548d1c4d3f565c4830657/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b0b6d1a19a75242cb290883b6bac363b/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ca665cb0503c6721a2b95693d894bf58/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1a93c67096329e9ab33b16021063d261/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/21ef1e7b7cfef693b1f07e2bed1c92e1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0f7d899095ef34e16086112c0f32f5dd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/4c7c7ce499cfbcc586f8d2bf368223cc/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/267133f82787eab3676b30aa136e8bf2/AndroidManifest.xml:2:1-13:12
 MERGED from [com.github.clans:fab:1.6.4] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/8d0b678816baacdef2e3bcb99649e9e8/AndroidManifest.xml:2:1-14:12
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/fa3bc6498eabfa384da82dd285ac6845/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/e63715e15ee8f1b959e9fe9f385ad3cd/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -62,13 +64,13 @@ INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/an
 		INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-28:12
 		INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-25:12
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:1-28:12
 		INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:1:11-69
@@ -76,83 +78,103 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
 		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:6:5-85
+	android:required
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:6:58-82
+	android:name
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:7:5-91
+	android:required
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:7:64-88
+	android:name
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:7:19-63
 application
-ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:6:5-23:19
-MERGED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:6:5-23:19
-MERGED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:6:5-23:19
+ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-26:19
 MERGED from [:react-native-splash-screen] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
 MERGED from [:react-native-splash-screen] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
 MERGED from [:react-native-navigation] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative57_5Debug/AndroidManifest.xml:11:5-15:19
 MERGED from [:react-native-navigation] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative57_5Debug/AndroidManifest.xml:11:5-15:19
-MERGED from [com.facebook.react:react-native:0.59.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/6a1613fe77303168daaf7f8ecb3dce4f/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.59.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/6a1613fe77303168daaf7f8ecb3dce4f/AndroidManifest.xml:11:5-20
-MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0b951040979f1c40fc35c87ef333ede5/AndroidManifest.xml:11:5-20
-MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0b951040979f1c40fc35c87ef333ede5/AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:design:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9ad7665476acdf3bd0e3748a510d5d22/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9ad7665476acdf3bd0e3748a510d5d22/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-compat:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9663e88c21784e2d1f79d9d19fa51300/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9663e88c21784e2d1f79d9d19fa51300/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/d7211e65955755326f3da2d6a035f143/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/d7211e65955755326f3da2d6a035f143/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1180d8bf91bf8fdba8d25c5ea25c338f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1180d8bf91bf8fdba8d25c5ea25c338f/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.15] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0075be8a9d8620f6d621a7fabf2d6338/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.15] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0075be8a9d8620f6d621a7fabf2d6338/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5b08b29a73ed6523f41984db31ae4e72/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5b08b29a73ed6523f41984db31ae4e72/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/45d9b1830ebcae9bd7c95b78f2a156bb/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/45d9b1830ebcae9bd7c95b78f2a156bb/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/f42940c1e818a36a8c36ed567b0eed54/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/f42940c1e818a36a8c36ed567b0eed54/AndroidManifest.xml:22:5-23:19
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/267133f82787eab3676b30aa136e8bf2/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/267133f82787eab3676b30aa136e8bf2/AndroidManifest.xml:11:5-20
 MERGED from [com.github.clans:fab:1.6.4] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/8d0b678816baacdef2e3bcb99649e9e8/AndroidManifest.xml:12:5-20
 MERGED from [com.github.clans:fab:1.6.4] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/8d0b678816baacdef2e3bcb99649e9e8/AndroidManifest.xml:12:5-20
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9663e88c21784e2d1f79d9d19fa51300/AndroidManifest.xml:22:18-91
+		ADDED from [androidx.core:core:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/45d9b1830ebcae9bd7c95b78f2a156bb/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:8:7-39
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:11:7-39
 	tools:ignore
 		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml:7:75-114
 	tools:targetApi
 		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:9:7-36
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:9:7-36
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:12:7-36
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:12:7-36
 	android:allowBackup
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:10:7-34
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:10:7-34
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:13:7-34
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:13:7-34
 	android:theme
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:11:7-38
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:14:7-38
 	android:usesCleartextTraffic
 		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:7:7-38
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:10:7-38
 activity#com.schoolmanagement.MainActivity
-ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:12:7-21:18
+ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:15:7-24:18
 	android:label
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:17:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:16:9-51
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:19:9-51
 	android:configChanges
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:15:9-79
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:18:9-79
 	android:name
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:13:9-37
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:16:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:17:9-20:25
+ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:20:9-23:25
 action#android.intent.action.MAIN
-ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:18:13-65
+ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:21:13-65
 	android:name
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:18:21-62
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:21:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:19:13-73
+ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:22:13-73
 	android:name
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:19:23-70
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:22:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:22:7-84
+ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:25:7-84
 MERGED from [:react-native-navigation] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative57_5Debug/AndroidManifest.xml:12:9-14:40
 MERGED from [:react-native-navigation] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative57_5Debug/AndroidManifest.xml:12:9-14:40
 	android:exported
 		ADDED from [:react-native-navigation] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative57_5Debug/AndroidManifest.xml:14:13-37
 	android:name
-		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:22:17-81
+		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml:25:17-81
 uses-sdk
 INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
 MERGED from [:react-native-splash-screen] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-splash-screen] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -161,92 +183,94 @@ MERGED from [:react-native-linear-gradient] /Users/gurjeet.singh/Documents/GitCl
 MERGED from [:react-native-linear-gradient] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-navigation] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative57_5Debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-navigation] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/library_manifest/reactNative57_5Debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/6a1613fe77303168daaf7f8ecb3dce4f/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/6a1613fe77303168daaf7f8ecb3dce4f/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0b951040979f1c40fc35c87ef333ede5/AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0b951040979f1c40fc35c87ef333ede5/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:design:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9ad7665476acdf3bd0e3748a510d5d22/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9ad7665476acdf3bd0e3748a510d5d22/AndroidManifest.xml:20:5-44
-MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9596967617d5cc2cebb17ae905a3b1c8/AndroidManifest.xml:8:5-10:41
-MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9596967617d5cc2cebb17ae905a3b1c8/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0e5b3fc65b9a1b9157cc99abdb4bdac4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0e5b3fc65b9a1b9157cc99abdb4bdac4/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/45f877da286efbdee2a4e67a5a232f8f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/45f877da286efbdee2a4e67a5a232f8f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/c0cc1e9533a4d1ed83d80edaae83e52b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/c0cc1e9533a4d1ed83d80edaae83e52b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b0cd0b67a66f4e1b2fbf20e6cda83619/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b0cd0b67a66f4e1b2fbf20e6cda83619/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/efa89e9f60475d27e737b3389aca2906/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/efa89e9f60475d27e737b3389aca2906/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b03d989bb945edaacd20e93069db938e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b03d989bb945edaacd20e93069db938e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7f88f9ec6fa779bbb77f0e63da681134/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7f88f9ec6fa779bbb77f0e63da681134/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/fd7eb453f23905dd4cbdf927c4ffe4f5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/fd7eb453f23905dd4cbdf927c4ffe4f5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/604bf83c42172ec483079d356270a411/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/604bf83c42172ec483079d356270a411/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/123b1bfcb035c50286e997a29065cbfa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/123b1bfcb035c50286e997a29065cbfa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/3c16da561feaf43ac92010f727e92173/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/3c16da561feaf43ac92010f727e92173/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7662102eb1cfeb6f204647ffea0e803d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7662102eb1cfeb6f204647ffea0e803d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5c6f9be6cfca0760e2cf65bb700f4450/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5c6f9be6cfca0760e2cf65bb700f4450/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/c3795e8afbc23935d40d4d27d0594780/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/c3795e8afbc23935d40d4d27d0594780/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/26fc718834144694363cd72c46883607/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/26fc718834144694363cd72c46883607/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7e6aadfe7c06abfee4ddb26d1dacf718/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7e6aadfe7c06abfee4ddb26d1dacf718/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/f3663888e86fe603bc717a049dc09cfa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/f3663888e86fe603bc717a049dc09cfa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7f6d2d1a60f37bfc4689903ad4641962/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7f6d2d1a60f37bfc4689903ad4641962/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9663e88c21784e2d1f79d9d19fa51300/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9663e88c21784e2d1f79d9d19fa51300/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/d7211e65955755326f3da2d6a035f143/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/d7211e65955755326f3da2d6a035f143/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/2c66eb133a7f61ecb6781a55036d8975/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/2c66eb133a7f61ecb6781a55036d8975/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/aa9295519ffd991a93bc78e00829a500/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/aa9295519ffd991a93bc78e00829a500/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/a88e4fe081f4c88ecfb40ed89a8a1c0e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/a88e4fe081f4c88ecfb40ed89a8a1c0e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/629eb9d3c5ef547133199946f6ed0c0f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/629eb9d3c5ef547133199946f6ed0c0f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9df1def009547adb4b7c345972722030/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9df1def009547adb4b7c345972722030/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ad750f3d8f50cfb5d0ba8d06684d57f9/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ad750f3d8f50cfb5d0ba8d06684d57f9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/09120d7d175104938925feaea44853b1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/09120d7d175104938925feaea44853b1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ef4e03a7f02f1984ebb66da82fd4ac7d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ef4e03a7f02f1984ebb66da82fd4ac7d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eb6a11d23f1f62a6beb1fd99e02a38e9/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eb6a11d23f1f62a6beb1fd99e02a38e9/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5e9f256943bd2c8dcd638c1fc199b38b/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5e9f256943bd2c8dcd638c1fc199b38b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/613ee9942d5b71903c27461be99dbc40/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/613ee9942d5b71903c27461be99dbc40/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9cba75bfb57f0755dd575b39866d41e1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9cba75bfb57f0755dd575b39866d41e1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1180d8bf91bf8fdba8d25c5ea25c338f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1180d8bf91bf8fdba8d25c5ea25c338f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eab8ecd6f21bd930ff36dd7900378f34/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eab8ecd6f21bd930ff36dd7900378f34/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.15] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0075be8a9d8620f6d621a7fabf2d6338/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.15] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0075be8a9d8620f6d621a7fabf2d6338/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5b08b29a73ed6523f41984db31ae4e72/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5b08b29a73ed6523f41984db31ae4e72/AndroidManifest.xml:20:5-44
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5ec913233e3dca78414ced2f8a21fadd/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5ec913233e3dca78414ced2f8a21fadd/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/77411815d272888068a90d7dccfb1321/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/77411815d272888068a90d7dccfb1321/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/3c8f4030d7eca414c27c97e183198cd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/3c8f4030d7eca414c27c97e183198cd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9bc9700a859666b62fe66240e3e63532/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9bc9700a859666b62fe66240e3e63532/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/8fe06168dfea1ca628cd628379e26120/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/8fe06168dfea1ca628cd628379e26120/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/720948039fc9cba4de97d43417291ae6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/720948039fc9cba4de97d43417291ae6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1768185dd70c5d8c5b2683c15f7cfd75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1768185dd70c5d8c5b2683c15f7cfd75/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/dee6e8735d2021449a08149482de7ad7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/dee6e8735d2021449a08149482de7ad7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/dc06e3f55c3298639db9701917d1cecd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/dc06e3f55c3298639db9701917d1cecd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1bd6827e6ee515e9bac47736926498c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1bd6827e6ee515e9bac47736926498c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/818bfd686dd1a4351f84ebe9367d9cc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/818bfd686dd1a4351f84ebe9367d9cc7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/25a1d723f30c10c32168a333499a2170/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/25a1d723f30c10c32168a333499a2170/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/a9c370bc3ec746d6f8de0b5939a082a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/a9c370bc3ec746d6f8de0b5939a082a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/31ae2695c48c0138064ebbf3ba4fe8ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/31ae2695c48c0138064ebbf3ba4fe8ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/4ea63b96fa8f5ef080b2bb5dc5f808aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/4ea63b96fa8f5ef080b2bb5dc5f808aa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/95dbb9768e4f5dbced022bf765d7302c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/95dbb9768e4f5dbced022bf765d7302c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/29a97ae0257b3559530c4ddc0f048d9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/29a97ae0257b3559530c4ddc0f048d9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ba3855d2b47b21f95e2287d07ad6ae95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ba3855d2b47b21f95e2287d07ad6ae95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eeabb8a7f4440e193986e04253509fe1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eeabb8a7f4440e193986e04253509fe1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/45d9b1830ebcae9bd7c95b78f2a156bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/45d9b1830ebcae9bd7c95b78f2a156bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/f42940c1e818a36a8c36ed567b0eed54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/f42940c1e818a36a8c36ed567b0eed54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/78593e99764803da7d676d2a95c1963d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/78593e99764803da7d676d2a95c1963d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0b6b8e3cc4c936c597dc75d673e5ca12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0b6b8e3cc4c936c597dc75d673e5ca12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9d2df8e25117b74b6249bbc93bafd6f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9d2df8e25117b74b6249bbc93bafd6f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/631478319454ec61053fbfbf88ac9ab9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/631478319454ec61053fbfbf88ac9ab9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9cc6136f193d78840de46719b289d2df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9cc6136f193d78840de46719b289d2df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/31c830bc8b7bd61d5b5dc8a92c31634f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/31c830bc8b7bd61d5b5dc8a92c31634f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/303de832b3664c65a8b2ed1ba784809b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/303de832b3664c65a8b2ed1ba784809b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eb87d827592568ab6e08fb5ec8154dc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eb87d827592568ab6e08fb5ec8154dc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/892b4e560fee88f86e92482952f63c32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/892b4e560fee88f86e92482952f63c32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/746ef3f759dfbebb39daeb200e3d2ec9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/746ef3f759dfbebb39daeb200e3d2ec9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9fc25c6d3e16a7e958c21002e9c239f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9fc25c6d3e16a7e958c21002e9c239f5/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/25c8c32ab03888f21581c14fcfa02fd2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/25c8c32ab03888f21581c14fcfa02fd2/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/43331495b74548d1c4d3f565c4830657/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/43331495b74548d1c4d3f565c4830657/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b0b6d1a19a75242cb290883b6bac363b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b0b6d1a19a75242cb290883b6bac363b/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ca665cb0503c6721a2b95693d894bf58/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ca665cb0503c6721a2b95693d894bf58/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1a93c67096329e9ab33b16021063d261/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1a93c67096329e9ab33b16021063d261/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/21ef1e7b7cfef693b1f07e2bed1c92e1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/21ef1e7b7cfef693b1f07e2bed1c92e1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0f7d899095ef34e16086112c0f32f5dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0f7d899095ef34e16086112c0f32f5dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/4c7c7ce499cfbcc586f8d2bf368223cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/4c7c7ce499cfbcc586f8d2bf368223cc/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/267133f82787eab3676b30aa136e8bf2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/267133f82787eab3676b30aa136e8bf2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.clans:fab:1.6.4] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/8d0b678816baacdef2e3bcb99649e9e8/AndroidManifest.xml:8:5-10:41
 MERGED from [com.github.clans:fab:1.6.4] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/8d0b678816baacdef2e3bcb99649e9e8/AndroidManifest.xml:8:5-10:41
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/fa3bc6498eabfa384da82dd285ac6845/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/fa3bc6498eabfa384da82dd285ac6845/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/e63715e15ee8f1b959e9fe9f385ad3cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/e63715e15ee8f1b959e9fe9f385ad3cd/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -259,3 +283,29 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-60

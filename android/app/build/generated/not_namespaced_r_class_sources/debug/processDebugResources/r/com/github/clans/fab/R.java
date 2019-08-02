@@ -100,20 +100,20 @@ public final class R {
         public static final int down = 0x7f090047;
         public static final int end = 0x7f090049;
         public static final int fab_label = 0x7f090050;
-        public static final int left = 0x7f09006c;
-        public static final int marquee = 0x7f090071;
-        public static final int middle = 0x7f090075;
-        public static final int mini = 0x7f090076;
-        public static final int none = 0x7f09007c;
-        public static final int normal = 0x7f09007d;
-        public static final int right = 0x7f09008b;
-        public static final int start = 0x7f0900bb;
-        public static final int up = 0x7f0900dc;
+        public static final int left = 0x7f090074;
+        public static final int marquee = 0x7f090079;
+        public static final int middle = 0x7f09007f;
+        public static final int mini = 0x7f090080;
+        public static final int none = 0x7f090086;
+        public static final int normal = 0x7f090087;
+        public static final int right = 0x7f090095;
+        public static final int start = 0x7f0900c7;
+        public static final int up = 0x7f0900f2;
     }
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] FloatingActionButton = { 0x7f040039, 0x7f04003a, 0x7f040042, 0x7f0400be, 0x7f0400d0, 0x7f0400d1, 0x7f0400d2, 0x7f0400d3, 0x7f0400d4, 0x7f0400d5, 0x7f0400d6, 0x7f0400d7, 0x7f0400d8, 0x7f0400d9, 0x7f0400da, 0x7f0400db, 0x7f0400dc, 0x7f0400dd, 0x7f0400de, 0x7f0400df, 0x7f0400e0, 0x7f0400e1, 0x7f0400e2, 0x7f0400e3, 0x7f0400e4, 0x7f0400e5, 0x7f040103, 0x7f04010b, 0x7f04014a, 0x7f04018f, 0x7f04019e, 0x7f0401b9, 0x7f040232 };
+        public static final int[] FloatingActionButton = { 0x7f040039, 0x7f04003a, 0x7f040042, 0x7f0400be, 0x7f0400d0, 0x7f0400d1, 0x7f0400d2, 0x7f0400d3, 0x7f0400d4, 0x7f0400d5, 0x7f0400d6, 0x7f0400d7, 0x7f0400d8, 0x7f0400d9, 0x7f0400da, 0x7f0400db, 0x7f0400dc, 0x7f0400dd, 0x7f0400de, 0x7f0400df, 0x7f0400e0, 0x7f0400e1, 0x7f0400e2, 0x7f0400e3, 0x7f0400e4, 0x7f0400e5, 0x7f040103, 0x7f04010b, 0x7f04014a, 0x7f04018f, 0x7f04019e, 0x7f0401b9, 0x7f040242 };
         public static final int FloatingActionButton_backgroundTint = 0;
         public static final int FloatingActionButton_backgroundTintMode = 1;
         public static final int FloatingActionButton_borderWidth = 2;

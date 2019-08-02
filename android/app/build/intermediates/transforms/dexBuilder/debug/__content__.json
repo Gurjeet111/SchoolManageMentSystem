@@ -1,6 +1,6 @@
 [
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/6a1613fe77303168daaf7f8ecb3dce4f/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1180d8bf91bf8fdba8d25c5ea25c338f/jars/classes.jar",
     "index": 0,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -8,7 +8,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0b951040979f1c40fc35c87ef333ede5/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eab8ecd6f21bd930ff36dd7900378f34/jars/classes.jar",
     "index": 1,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -16,7 +16,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9ad7665476acdf3bd0e3748a510d5d22/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0075be8a9d8620f6d621a7fabf2d6338/jars/classes.jar",
     "index": 2,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -24,7 +24,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9596967617d5cc2cebb17ae905a3b1c8/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5b08b29a73ed6523f41984db31ae4e72/jars/classes.jar",
     "index": 3,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -32,7 +32,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0e5b3fc65b9a1b9157cc99abdb4bdac4/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5ec913233e3dca78414ced2f8a21fadd/jars/classes.jar",
     "index": 4,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -40,7 +40,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/45f877da286efbdee2a4e67a5a232f8f/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/77411815d272888068a90d7dccfb1321/jars/classes.jar",
     "index": 5,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -48,7 +48,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/c0cc1e9533a4d1ed83d80edaae83e52b/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/3c8f4030d7eca414c27c97e183198cd1/jars/classes.jar",
     "index": 6,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -56,7 +56,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b0cd0b67a66f4e1b2fbf20e6cda83619/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9bc9700a859666b62fe66240e3e63532/jars/classes.jar",
     "index": 7,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -64,7 +64,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/efa89e9f60475d27e737b3389aca2906/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/8fe06168dfea1ca628cd628379e26120/jars/classes.jar",
     "index": 8,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -72,7 +72,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b03d989bb945edaacd20e93069db938e/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/720948039fc9cba4de97d43417291ae6/jars/classes.jar",
     "index": 9,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -80,7 +80,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7f88f9ec6fa779bbb77f0e63da681134/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1768185dd70c5d8c5b2683c15f7cfd75/jars/classes.jar",
     "index": 10,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -88,7 +88,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/fd7eb453f23905dd4cbdf927c4ffe4f5/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/dee6e8735d2021449a08149482de7ad7/jars/classes.jar",
     "index": 11,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -96,7 +96,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/604bf83c42172ec483079d356270a411/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/dc06e3f55c3298639db9701917d1cecd/jars/classes.jar",
     "index": 12,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -104,7 +104,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/123b1bfcb035c50286e997a29065cbfa/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1bd6827e6ee515e9bac47736926498c5/jars/classes.jar",
     "index": 13,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -112,7 +112,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/3c16da561feaf43ac92010f727e92173/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/818bfd686dd1a4351f84ebe9367d9cc7/jars/classes.jar",
     "index": 14,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -120,7 +120,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7662102eb1cfeb6f204647ffea0e803d/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/25a1d723f30c10c32168a333499a2170/jars/classes.jar",
     "index": 15,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -128,7 +128,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5c6f9be6cfca0760e2cf65bb700f4450/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/a9c370bc3ec746d6f8de0b5939a082a4/jars/classes.jar",
     "index": 16,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -136,7 +136,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/c3795e8afbc23935d40d4d27d0594780/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/31ae2695c48c0138064ebbf3ba4fe8ce/jars/classes.jar",
     "index": 17,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -144,7 +144,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/26fc718834144694363cd72c46883607/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/4ea63b96fa8f5ef080b2bb5dc5f808aa/jars/classes.jar",
     "index": 18,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -152,7 +152,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7e6aadfe7c06abfee4ddb26d1dacf718/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/95dbb9768e4f5dbced022bf765d7302c/jars/classes.jar",
     "index": 19,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -160,7 +160,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/f3663888e86fe603bc717a049dc09cfa/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/29a97ae0257b3559530c4ddc0f048d9e/jars/classes.jar",
     "index": 20,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -168,7 +168,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/7f6d2d1a60f37bfc4689903ad4641962/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ba3855d2b47b21f95e2287d07ad6ae95/jars/classes.jar",
     "index": 21,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -176,7 +176,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9663e88c21784e2d1f79d9d19fa51300/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eeabb8a7f4440e193986e04253509fe1/jars/classes.jar",
     "index": 22,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -184,7 +184,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/d7211e65955755326f3da2d6a035f143/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/45d9b1830ebcae9bd7c95b78f2a156bb/jars/classes.jar",
     "index": 23,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -192,7 +192,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.android.support/collections/28.0.0/c1bcdade4d3cc2836130424a3f3e4182c666a745/collections-28.0.0.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/f42940c1e818a36a8c36ed567b0eed54/jars/classes.jar",
     "index": 24,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -200,7 +200,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/2c66eb133a7f61ecb6781a55036d8975/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0/42858b26cafdaa69b6149f45dfc2894007bc2c7a/collection-1.0.0.jar",
     "index": 25,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -208,7 +208,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/aa9295519ffd991a93bc78e00829a500/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/78593e99764803da7d676d2a95c1963d/jars/classes.jar",
     "index": 26,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -216,7 +216,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/a88e4fe081f4c88ecfb40ed89a8a1c0e/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0b6b8e3cc4c936c597dc75d673e5ca12/jars/classes.jar",
     "index": 27,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -224,7 +224,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/629eb9d3c5ef547133199946f6ed0c0f/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9d2df8e25117b74b6249bbc93bafd6f3/jars/classes.jar",
     "index": 28,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -232,7 +232,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9df1def009547adb4b7c345972722030/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/631478319454ec61053fbfbf88ac9ab9/jars/classes.jar",
     "index": 29,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -240,7 +240,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ad750f3d8f50cfb5d0ba8d06684d57f9/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9cc6136f193d78840de46719b289d2df/jars/classes.jar",
     "index": 30,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -248,7 +248,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/09120d7d175104938925feaea44853b1/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/31c830bc8b7bd61d5b5dc8a92c31634f/jars/classes.jar",
     "index": 31,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -256,7 +256,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ef4e03a7f02f1984ebb66da82fd4ac7d/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/303de832b3664c65a8b2ed1ba784809b/jars/classes.jar",
     "index": 32,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -264,7 +264,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eb6a11d23f1f62a6beb1fd99e02a38e9/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/eb87d827592568ab6e08fb5ec8154dc9/jars/classes.jar",
     "index": 33,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -272,7 +272,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/892b4e560fee88f86e92482952f63c32/jars/classes.jar",
     "index": 34,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -280,7 +280,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/5e9f256943bd2c8dcd638c1fc199b38b/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.0.0/e070ffae07452331bc5684734fce6831d531785c/lifecycle-common-2.0.0.jar",
     "index": 35,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -288,7 +288,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/746ef3f759dfbebb39daeb200e3d2ec9/jars/classes.jar",
     "index": 36,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -296,7 +296,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/613ee9942d5b71903c27461be99dbc40/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0/bb21b9a11761451b51624ac428d1f1bb5deeac38/core-common-2.0.0.jar",
     "index": 37,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -304,7 +304,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/28.0.0/ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8/support-annotations-28.0.0.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9fc25c6d3e16a7e958c21002e9c239f5/jars/classes.jar",
     "index": 38,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -312,7 +312,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.facebook.infer.annotation/infer-annotation/0.11.2/f514ff4ca022a579d9cf7524846988b646ae4491/infer-annotation-0.11.2.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.0.0/45599f2cd5965ac05a1488fa2a5c0cdd7c499ead/annotation-1.0.0.jar",
     "index": 39,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -320,7 +320,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.facebook.infer.annotation/infer-annotation/0.11.2/f514ff4ca022a579d9cf7524846988b646ae4491/infer-annotation-0.11.2.jar",
     "index": 40,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -328,7 +328,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/9cba75bfb57f0755dd575b39866d41e1/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar",
     "index": 41,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -336,7 +336,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/43331495b74548d1c4d3f565c4830657/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/25c8c32ab03888f21581c14fcfa02fd2/jars/classes.jar",
     "index": 42,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -344,7 +344,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/b0b6d1a19a75242cb290883b6bac363b/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/43331495b74548d1c4d3f565c4830657/jars/classes.jar",
     "index": 43,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -352,7 +352,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/ca665cb0503c6721a2b95693d894bf58/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/21ef1e7b7cfef693b1f07e2bed1c92e1/jars/classes.jar",
     "index": 44,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -360,7 +360,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/1a93c67096329e9ab33b16021063d261/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/0f7d899095ef34e16086112c0f32f5dd/jars/classes.jar",
     "index": 45,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -368,7 +368,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/267133f82787eab3676b30aa136e8bf2/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/4c7c7ce499cfbcc586f8d2bf368223cc/jars/classes.jar",
     "index": 46,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -376,7 +376,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/267133f82787eab3676b30aa136e8bf2/jars/classes.jar",
     "index": 47,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -384,7 +384,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.12.1/f689d3657c3f1fdbde4877bcddc668491a4ad46f/okhttp-urlconnection-3.12.1.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar",
     "index": 48,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -392,7 +392,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/dc6d02e4e68514eff5631963e28ca7742ac69efe/okhttp-3.12.1.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.12.1/f689d3657c3f1fdbde4877bcddc668491a4ad46f/okhttp-urlconnection-3.12.1.jar",
     "index": 49,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -400,7 +400,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.15.0/bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8/okio-1.15.0.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/dc6d02e4e68514eff5631963e28ca7742ac69efe/okhttp-3.12.1.jar",
     "index": 50,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -408,7 +408,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/8d0b678816baacdef2e3bcb99649e9e8/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.15.0/bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8/okio-1.15.0.jar",
     "index": 51,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -416,7 +416,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/fa3bc6498eabfa384da82dd285ac6845/jars/classes.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/8d0b678816baacdef2e3bcb99649e9e8/jars/classes.jar",
     "index": 52,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -424,7 +424,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar",
+    "name": "/Users/gurjeet.singh/.gradle/caches/transforms-2/files-2.1/e63715e15ee8f1b959e9fe9f385ad3cd/jars/classes.jar",
     "index": 53,
     "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
@@ -432,15 +432,15 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-splash-screen/android/build/intermediates/runtime_library_classes/debug/classes.jar-0",
+    "name": "/Users/gurjeet.singh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar",
     "index": 54,
-    "scopes": ["SUB_PROJECTS"],
+    "scopes": ["EXTERNAL_LIBRARIES"],
     "types": ["DEX_ARCHIVE"],
     "format": "JAR",
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-splash-screen/android/build/intermediates/runtime_library_classes/debug/classes.jar-1",
+    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/runtime_library_classes/debug/classes.jar-0",
     "index": 55,
     "scopes": ["SUB_PROJECTS"],
     "types": ["DEX_ARCHIVE"],
@@ -448,7 +448,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-vector-icons/android/build/intermediates/runtime_library_classes/debug/classes.jar-0",
+    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-image-crop-picker/android/build/intermediates/runtime_library_classes/debug/classes.jar-1",
     "index": 56,
     "scopes": ["SUB_PROJECTS"],
     "types": ["DEX_ARCHIVE"],
@@ -456,7 +456,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-vector-icons/android/build/intermediates/runtime_library_classes/debug/classes.jar-1",
+    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-splash-screen/android/build/intermediates/runtime_library_classes/debug/classes.jar-0",
     "index": 57,
     "scopes": ["SUB_PROJECTS"],
     "types": ["DEX_ARCHIVE"],
@@ -464,7 +464,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-linear-gradient/android/build/intermediates/runtime_library_classes/debug/classes.jar-0",
+    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-splash-screen/android/build/intermediates/runtime_library_classes/debug/classes.jar-1",
     "index": 58,
     "scopes": ["SUB_PROJECTS"],
     "types": ["DEX_ARCHIVE"],
@@ -472,7 +472,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-linear-gradient/android/build/intermediates/runtime_library_classes/debug/classes.jar-1",
+    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-vector-icons/android/build/intermediates/runtime_library_classes/debug/classes.jar-0",
     "index": 59,
     "scopes": ["SUB_PROJECTS"],
     "types": ["DEX_ARCHIVE"],
@@ -480,7 +480,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/runtime_library_classes/reactNative57_5Debug/classes.jar-0",
+    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-vector-icons/android/build/intermediates/runtime_library_classes/debug/classes.jar-1",
     "index": 60,
     "scopes": ["SUB_PROJECTS"],
     "types": ["DEX_ARCHIVE"],
@@ -488,7 +488,7 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/runtime_library_classes/reactNative57_5Debug/classes.jar-1",
+    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-linear-gradient/android/build/intermediates/runtime_library_classes/debug/classes.jar-0",
     "index": 61,
     "scopes": ["SUB_PROJECTS"],
     "types": ["DEX_ARCHIVE"],
@@ -496,8 +496,32 @@
     "present": true
   },
   {
-    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes",
+    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-linear-gradient/android/build/intermediates/runtime_library_classes/debug/classes.jar-1",
     "index": 62,
+    "scopes": ["SUB_PROJECTS"],
+    "types": ["DEX_ARCHIVE"],
+    "format": "JAR",
+    "present": true
+  },
+  {
+    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/runtime_library_classes/reactNative57_5Debug/classes.jar-0",
+    "index": 63,
+    "scopes": ["SUB_PROJECTS"],
+    "types": ["DEX_ARCHIVE"],
+    "format": "JAR",
+    "present": true
+  },
+  {
+    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/node_modules/react-native-navigation/lib/android/app/build/intermediates/runtime_library_classes/reactNative57_5Debug/classes.jar-1",
+    "index": 64,
+    "scopes": ["SUB_PROJECTS"],
+    "types": ["DEX_ARCHIVE"],
+    "format": "JAR",
+    "present": true
+  },
+  {
+    "name": "/Users/gurjeet.singh/Documents/GitClone /SchoolManageMentSystem/android/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes",
+    "index": 65,
     "scopes": ["PROJECT"],
     "types": ["DEX_ARCHIVE"],
     "format": "DIRECTORY",

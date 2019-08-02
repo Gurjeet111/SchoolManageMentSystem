@@ -1,5 +1,12 @@
 import React, { Fragment } from "react";
-import { View, Text, StyleSheet, Image } from "react-native";
+import {
+  View,
+  Text,
+  StyleSheet,
+  NativeModules,
+  Image,
+  TouchableOpacity
+} from "react-native";
 import { connect } from "react-redux";
 import { bindActionCreators } from "redux";
 
@@ -10,13 +17,47 @@ import constants from "../../constants";
 import { moderateScale } from "../../helpers/ResponsiveFonts";
 import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view";
 
+var ImagePicker = NativeModules.ImageCropPicker;
+
 class SignUp extends React.Component {
   state = {
     username: "",
     password: "",
     email: "",
-    phone_number: ""
+    phone_number: "",
+    image: null
   };
+
+  pickSingle(cropit, circular = false) {
+    ImagePicker.openPicker({
+      width: 500,
+      height: 500,
+      cropping: cropit,
+      cropperCircleOverlay: circular,
+      compressImageMaxWidth: 1000,
+      compressImageMaxHeight: 1000,
+      compressImageQuality: 1,
+      compressVideoPreset: "MediumQuality",
+      includeExif: true
+    })
+      .then(image => {
+        console.log("received image", image);
+        this.setState({
+          image: {
+            uri: image.path,
+            width: image.width,
+            height: image.height,
+            mime: image.mime
+          },
+          images: null
+        });
+      })
+      .catch(e => {
+        console.log(e);
+        Alert.alert(e.message ? e.message : e);
+      });
+  }
+
   onChangeText = (key, val) => {
     this.setState({ [key]: val });
   };
@@ -29,6 +70,7 @@ class SignUp extends React.Component {
     }
   };
   render() {
+    console.log("=========ImagePicker========", ImagePicker);
     return (
       <View style={styles.container}>
         <View
@@ -39,13 +81,18 @@ class SignUp extends React.Component {
             paddingVertical: moderateScale(10)
           }}
         >
-          <Image
-            style={{
-              height: moderateScale(80),
-              width: moderateScale(80)
-            }}
-            source={constants.Images.Common.logoBase64}
-          />
+          <TouchableOpacity
+            onPress={() => this.pickSingle(false)}
+            style={styles.button}
+          >
+            <Image
+              style={{
+                height: moderateScale(80),
+                width: moderateScale(80)
+              }}
+              source={constants.Images.Common.logoBase64}
+            />
+          </TouchableOpacity>
         </View>
         <KeyboardAwareScrollView
           style={{
